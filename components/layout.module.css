@@ -1,0 +1,233 @@
+.container {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+}
+
+.container {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+}
+  
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.backToHome {
+    margin: 3rem 0 0;
+}
+
+.setProfile {
+    position: relative;
+}
+
+.setName {
+    position: absolute;
+    top: 100px;
+    left: 270px;
+}
+
+.setCallName {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+
+.setYear {
+    position: absolute;
+    top: 140px;
+    left: 150px;
+}
+.setMonth {
+    position: absolute;
+    top: 140px;
+    left: 220px;
+}
+.setDay {
+    position: absolute;
+    top: 140px;
+    left: 260px;
+}
+
+.setAge {
+    position: absolute;
+    top: 140px;
+    left: 370px;
+}
+
+.setBloodType {
+    position: absolute;
+    top: 140px;
+    left: 503px;
+}
+
+.setPersonality {
+    position: absolute;
+    top: 175px;
+    left: 260px;
+}
+
+.setMyPersonality {
+    position: absolute;
+    top: 207px;
+    left: 250px;
+}
+
+.setHobby {
+    position: absolute;
+    top: 250px;
+    left: 230px;
+}
+
+.setrecently {
+    position: absolute;
+    top: 250px;
+    left: 460px;
+}
+
+.setSpecialSkill {
+    position: absolute;
+    top: 280px;
+    left: 400px;
+}
+
+.setEveryTime {
+    position: absolute;
+    top: 320px;
+    left: 220px;
+}
+
+.setEmoji {
+    position: absolute;
+    top: 480px;
+    left: 80px;
+}
+
+.setEat {
+    position: absolute;
+    top: 480px;
+    left: 200px;
+}
+
+.setAnimal {
+    position: absolute;
+    top: 480px;
+    left: 300px;
+}
+
+.setYoutube {
+    position: absolute;
+    top: 480px;
+    left: 410px;
+}
+
+.setArtist {
+    position: absolute;
+    top: 480px;
+    left: 540px;
+}
+
+.setGame {
+    position: absolute;
+    top: 585px;
+    left: 70px;
+}
+
+.setAnime {
+    position: absolute;
+    top: 585px;
+    left: 180px;
+}
+
+.setCharacter {
+    position: absolute;
+    top: 585px;
+    left: 300px;
+}
+
+.setColor {
+    position: absolute;
+    top: 585px;
+    left: 420px;
+}
+
+.setMyBest3 {
+    position: absolute;
+    top: 17px;
+    left: 850px;
+}
+
+.setBest1 {
+    position: absolute;
+    top: 70px;
+    left: 680px;
+}
+
+.setBest2 {
+    position: absolute;
+    top: 70px;
+    left: 800px;
+}
+
+.setBest3 {
+    position: absolute;
+    top: 70px;
+    left: 920px;
+}
+
+.setPhone {
+    position: absolute;
+    top: 230px;
+    left: 790px;
+}
+
+.setFree {
+    position: absolute;
+    top: 290px;
+    left: 790px;
+}
+
+.setLonging {
+    position: absolute;
+    top: 350px;
+    left: 790px;
+}
+
+.setLikePerson {
+    position: absolute;
+    top: 410px;
+    left: 790px;
+}
+
+.setRecentlyHappy {
+    position: absolute;
+    top: 470px;
+    left: 790px;
+}
+
+.setFreeSpace {
+    position: absolute;
+    top: 570px;
+    left: 770px;
+}
+
+.setNowYear {
+    position: absolute;
+    top: 17px;
+    left: 375px;
+}
+
+.setNowMonth {
+    position: absolute;
+    top: 17px;
+    left: 460px;
+}
+
+.setNowDay {
+    position: absolute;
+    top: 17px;
+    left: 530px;
+}
